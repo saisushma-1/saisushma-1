@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is sai sushma... and I'm a Java Fullstack Trainee.., from ...Rajahmundry.I'm a pssionate web developer  with enhance knowledge in front-end backend and database.I am a specialize in creating responsive and visually appealing web applications using HTML,CSS,JavaScript and react</h2>
+<h2 align="center">Hi ! My name is sai sushma... and I'm a Java Fullstack Trainee.., from ...Rajahmundry.I'm a passionate web developer  with enhance knowledge in front-end backend and database.I am a specialize in creating responsive and visually appealing web applications using HTML,CSS,JavaScript and react</h2>
 
 ###
 
@@ -38,12 +38,12 @@
 
 ###
 
-<img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZn75l0BuEvcBp5frWu6UAAwDQoO66Tj46kA&s"  />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/saisushma-1/count.svg?"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZn75l0BuEvcBp5frWu6UAAwDQoO66Tj46kA&s"  />
 
 ###
