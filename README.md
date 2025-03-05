@@ -1,4 +1,4 @@
-<h2 align="center">Hi ! My name is sai sushma... and I'm a Java Fullstack Trainee.., from ...Rajahmundry.I'm a passionate web developer  with enhance knowledge in front-end backend and database.I am a specialize in creating responsive and visually appealing web applications using HTML,CSS,JavaScript and react</h2>
+<h2 align="center">Hi ! My name is Sai Sushma... and I'm a Java Fullstack Trainee.., from ...Rajahmundry.I'm a passionate web developer  with enhance knowledge in front-end backend and database.I am a specialize in creating responsive and visually appealing web applications using HTML,CSS,JavaScript and React</h2>
 
 ###
 
